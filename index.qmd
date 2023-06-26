@@ -1,0 +1,21 @@
+---
+title: "first-website"
+---
+
+```{r}
+#| output: false #| echo: false
+library(tidyverse)
+library(ggthemes)
+```
+
+```{r}
+#| echo: false #| label: car-plot
+mtcars |> select(mpg, wt) |>
+  ggplot(aes(x=wt, y=mpg)) + 
+    geom_smooth(method = "lm", formula = y ~ x, se = FALSE) + 
+    theme_clean() +
+    labs(title = "Fuel Effiency and Weight",
+      subtitle = "Heavier cars are less fuel efficient",
+      y = "MPG", x = "Weight (1000s of lbs)",
+      caption = "Henderson and Velle")
+```
