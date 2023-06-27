@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+## About Me
+
+Hi! I'm **Pranav Chivukula**, a rising senior at Lexington High School. Right now, I'm learning how to make Quarto Websites on RStudio! You can also find me listening to music (BIG Mac Miller fan), playing Ultimate Frisbee, or hanging with friends.
+
+## About the Project
+
+This project is called *Fuel Efficiency and Weight.* It analyzes how increasing the weight of the car affects the miles per gallon of said car.
+
+### Goals
+
+-   I want this project to be simple to understand
+
+-   I want this project to help people
+
+    -   I don't know what demographics need this
+
+"This is data science"
+
+\tex
+
+\~ Preceptor
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
