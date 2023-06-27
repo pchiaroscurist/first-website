@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f973ce46-f260-4423-9b00-9d4ac9f30a1e
+      url: 'https://quartopub.com/sites/pchiaroscurist/first-website'

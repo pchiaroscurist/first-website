@@ -1,0 +1,10 @@
+---
+title: "Plane Passengers"
+---
+
+```{r}
+#| label: plane
+library(dygraphs)
+dygraph(AirPassengers, main = "Plane Passengers 1950-1960") |>
+  dyRangeSelector(dateWindow = c("1950-01-01", "1960-12-31"))
+```

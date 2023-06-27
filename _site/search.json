@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Pranav Chivukula, a rising senior at Lexington High School. Right now, I’m learning how to make Quarto Websites on RStudio! You can also find me listening to music (BIG Mac Miller fan), playing Ultimate Frisbee, or hanging with friends."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nThis project is called Fuel Efficiency and Weight. It analyzes how increasing the weight of the car affects the miles per gallon of said car.\n\nGoals\n\nI want this project to be simple to understand\nI want this project to help people\n\nI don’t know what demographics need this\n\n\n“This is data science”\n~ Preceptor\nKane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "first-website",
+    "section": "",
+    "text": "── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.2     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.2     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\n\n\n\n\n\n\n\nSaving 7 x 5 in image"
+  }
+]
